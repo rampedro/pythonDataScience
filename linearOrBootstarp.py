@@ -1,3 +1,6 @@
+## Confidence intervals both on graph and as Interval !
+
+
 ## build linear model
 
 
