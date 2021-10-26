@@ -1,4 +1,5 @@
-# pythonGraphs
+# Python DataScience
+
 
 ## This reposiotory includes codes for the following 4 techniques:
 
